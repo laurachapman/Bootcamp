@@ -1,12 +1,12 @@
-//Hey
 
 #include <stdio.h>
-#include <string.h>
+#include <cs50.h>
+
+// Comment from Laura
+
 int main(void)
 {
-	char str[20];
-	printf("What's your name: ");
-	scanf("%s", str);
-	printf("Hello, %s!\n", str);
+    //prints a hello message
+    printf("hello, world\\n");
+    printf("goodbye")
 }
-
