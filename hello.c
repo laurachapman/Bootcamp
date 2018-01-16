@@ -7,4 +7,5 @@ int main(void)
 {
     //prints a hello message
     printf("hello, world\\n");
+    printf("goodbye")
 }
